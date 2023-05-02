@@ -50,8 +50,7 @@ mvn spring-boot:run
 
 ## Assignment 1
 Even without logging in, you can browse the menu and search for specific items
-Set all prices of all product to 0.00 so everything is for FREE
-- Use the searchbox for this and try
+Set all prices of all product to 0.00 so everything is for FREE, using the searchbox.
 
 - [Hint 1](workshop/freeloader/hint1.md)
 - [Hint 2](workshop/freeloader/hint2.md)
